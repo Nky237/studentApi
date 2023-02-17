@@ -1,0 +1,481 @@
+{
+  
+    "back" : [
+     {
+       "id": 1,
+       "name": "Somto",
+       "Task1": 20,
+       "Task2": 40,
+       "Task3": 80,
+       "Task4": 20,
+       "Appraisal1": 4,
+       "Appraisal2": 3,
+       "Total": 50000,
+       "gender" : "male"
+
+      
+     },
+     {
+       "id": 2,
+       "name": "Jennifer",
+       "Task1": 50,
+       "Task2": 80,
+       "Task3": 70,
+       "Task4": 900,
+       "Appraisal1": 5,
+       "Appraisal2": 3,
+       "Total": 70000,
+       "gender" : "female"
+      
+     },
+     {
+       "id": 3,
+       "name": "Micheal",
+       "Task1": 50,
+       "Task2": 80,
+       "Task3": 80,
+       "Task4": 10,
+       "Appraisal1": 4,
+       "Appraisal2": 2,
+       "Total": 90000,
+       "gender" : "male"
+      
+     },
+     {
+       "id": 4,
+       "name": "Moses",
+       "Task1": 20,
+       "Task2": 90,
+       "Task3": 80,
+       "Task4": 80,
+       "Appraisal1": 4,
+       "Appraisal2": 3,
+       "Total": 65000,
+       "gender" : "male"
+      
+     },
+     {
+       "id": 5,
+       "name": "Gift",
+       "Task1": 90,
+       "Task2": 80,
+       "Task3": 90,
+       "Task4": 30,
+       "Appraisal1": 2,
+       "Appraisal2": 6,
+       "Total": 96000,
+       "gender" : "female"
+      
+     },
+     {
+       "id": 6,
+       "name": "Chinonso",
+       "Task1": 100,
+       "Task2": 90,
+       "Task3": 100,
+       "Task4": 100,
+       "Appraisal1": 4,
+       "Appraisal2": 5,
+       "Total": 95000,
+       "gender" : "female"
+      
+     },
+     {
+       "id": 7,
+       "name": "Mark",
+       "Task1": 20,
+       "Task2": 40,
+       "Task3": 80,
+       "Task4": 20,
+       "Appraisal1": 4,
+       "Appraisal2": 3,
+       "Total": 50000,
+       "gender" : "male"
+      
+     },
+     {
+       "id": 8,
+       "name": "Calvin",
+       "Task1": 90,
+       "Task2": 70,
+       "Task3": 80,
+       "Task4": 20,
+       "Appraisal1": 4,
+       "Appraisal2": 3,
+       "Total": 60000,
+       "gender" : "male"
+      
+     },
+     {
+       "id": 9,
+       "name": "Prisca",
+       "Task1": 40,
+       "Task2": 80,
+       "Task3": 80,
+       "Task4": 20,
+       "Appraisal1": 1,
+       "Appraisal2": 3,
+       "Total": 40000,
+       "gender" : "female"
+      
+     },
+     {
+       "id": 10,
+       "name": "Maya",
+       "Task1": 100,
+       "Task2": 100,
+       "Task3": 100,
+       "Task4": 100,
+       "Appraisal1": 5,
+       "Appraisal2": 5,
+       "Total": 100000,
+       "gender" : "female"
+      
+     },
+     {
+       "id": 11,
+       "name": "Zam",
+       "Task1": 20,
+       "Task2": 90,
+       "Task3": 80,
+       "Task4": 90,
+       "Appraisal1": 4,
+       "Appraisal2": 3,
+       "Total": 50000,
+       "gender" : "female"
+      
+     },
+     {
+       "id": 12,
+       "name": "Timothy",
+       "Task1": 100,
+       "Task2": 40,
+       "Task3": 80,
+       "Task4": 100,
+       "Appraisal1": 4,
+       "Appraisal2": 3,
+       "Total": 80000,
+       "gender" : "male"
+      
+     },
+     {
+       "id": 13,
+       "name": "Charles",
+       "Task1": 20,
+       "Task2": 40,
+       "Task3": 80,
+       "Task4": 100,
+       "Appraisal1": 5,
+       "Appraisal2": 3,
+       "Total": 60000,
+       "gender" : "male"
+      
+     },
+     {
+       "id": 14,
+       "name": "Helen",
+       "Task1": 20,
+       "Task2": 40,
+       "Task3": 80,
+       "Task4": 10,
+       "Appraisal1": 4,
+       "Appraisal2": 3,
+       "Total": 48000,
+       "gender" : "female"
+      
+     },
+     {
+       "id": 14,
+       "name": "Courtney",
+       "Task1": 20,
+       "Task2": 80,
+       "Task3": 80,
+       "Task4": 60,
+       "Appraisal1": 4,
+       "Appraisal2": 3,
+       "Total": 60000,
+       "gender" : "male"
+      
+     },
+     {
+       "id": 15,
+       "name": "Queen",
+       "Task1": 100,
+       "Task2": 100,
+       "Task3": 100,
+       "Task4": 20,
+       "Appraisal1": 4,
+       "Appraisal2": 3,
+       "Total": 95000,
+       "gender" : "female"
+      
+     },
+     {
+       "id": 16,
+       "name": "Val",
+       "Task1": 20,
+       "Task2": 90,
+       "Task3": 20,
+       "Task4": 100,
+       "Appraisal1": 4,
+       "Appraisal2": 5,
+       "Total": 60000,
+       "gender" : "male"
+      
+     },
+     {
+       "id": 17,
+       "name": "Borna",
+       "Task1": 100,
+       "Task2": 90,
+       "Task3": 80,
+       "Task4": 50,
+       "Appraisal1": 4,
+       "Appraisal2": 3,
+       "Total": 70000,
+       "gender" : "male"
+      
+     },
+     {
+       "id": 18,
+       "name": "Victor",
+       "Task1": 20,
+       "Task2": 40,
+       "Task3": 80,
+       "Task4": 20,
+       "Appraisal1": 4,
+       "Appraisal2": 3,
+       "Total": 50000,
+       "gender" : "male"
+      
+     },
+     {
+       "id": 19,
+       "name": "Amara",
+       "Task1": 20,
+       "Task2": 40,
+       "Task3": 20,
+       "Task4": 20,
+       "Appraisal1": 4,
+       "Appraisal2": 3,
+       "Total": 50000,
+       "gender" : "female"
+      
+     },
+     {
+       "id": 20,
+       "name": "Richard",
+       "Task1": 20,
+       "Task2": 40,
+       "Task3": 50,
+       "Task4": 2,
+       "Appraisal1": 4,
+       "Appraisal2": 3,
+       "Total": 40000,
+       "gender" : "male"
+      
+     }
+   ],
+   "scoress" : [
+    {
+      "id": 1,
+      "name": "Ekene",
+      "Task1": 20,
+      "Task2": 40,
+      "Task3": 80,
+      "Task4": 20,
+      "Appraisal1": 4,
+      "Appraisal2": 3,
+      "Total": 50000,
+      "gender" : "male",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdlMd7stpWUCmjpfRjUsQ72xSWikidbgaI1w&usqp=CAU"
+      
+     
+    },
+    {
+      "id": 2,
+      "name": "Johnson",
+      "Task1": 50,
+      "Task2": 80,
+      "Task3": 70,
+      "Task4": 900,
+      "Appraisal1": 5,
+      "Appraisal2": 3,
+      "Total": 70000,
+      "gender" : "male",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVEjoPV0LSFFVpaHXtFwdDGOczYXCIwZmi-Q&usqp=CAU"
+     
+    },
+    {
+      "id": 3,
+      "name": "Kelvin",
+      "Task1": 50,
+      "Task2": 80,
+      "Task3": 80,
+      "Task4": 10,
+      "Appraisal1": 4,
+      "Appraisal2": 2,
+      "Total": 90000,
+      "gender" : "male",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qO2LBbeQT987zXZRYrQ_OJi2bQleJa-2ew&usqp=CAU"
+     
+    },
+    {
+      "id": 4,
+      "name": "Matt",
+      "Task1": 20,
+      "Task2": 90,
+      "Task3": 80,
+      "Task4": 80,
+      "Appraisal1": 4,
+      "Appraisal2": 3,
+      "Total": 65000,
+      "gender" : "female",
+     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQePAMXrnTFCj1LlCQN3GqVnFUR__zuYqAK2A&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "name": "Queen",
+      "Task1": 90,
+      "Task2": 80,
+      "Task3": 90,
+      "Task4": 30,
+      "Appraisal1": 2,
+      "Appraisal2": 6,
+      "Total": 96000,
+      "gender" : "female",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwAAgPvjuHXg_-rlVao0J8-v6ZA5gsIFryrg&usqp=CAU"
+     
+    },
+    {
+      "id": 6,
+      "name": "Nkem",
+      "Task1": 100,
+      "Task2": 90,
+      "Task3": 100,
+      "Task4": 100,
+      "Appraisal1": 4,
+      "Appraisal2": 5,
+      "Total": 95000,
+      "gender" : "female",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo5TmPdRp9mhJQ4Unm0a8Bh0OXTRWHMNz0hQ&usqp=CAU"
+     
+    },
+    {
+      "id": 7,
+      "name": "Joan",
+      "Task1": 20,
+      "Task2": 40,
+      "Task3": 80,
+      "Task4": 20,
+      "Appraisal1": 4,
+      "Appraisal2": 3,
+      "Total": 50000,
+      "gender" : "female",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNHSGdMG2Yvdjf-v9EPOaUONFkJpkx6cjj4w&usqp=CAU"
+     
+    },
+    {
+      "id": 8,
+      "name": "Johnson",
+      "Task1": 90,
+      "Task2": 70,
+      "Task3": 80,
+      "Task4": 20,
+      "Appraisal1": 4,
+      "Appraisal2": 3,
+      "Total": 60000,
+      "gender" : "male",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTa31xKmnI6rYS9nSNXJNOewF7o1E49L6r_Q&usqp=CAU"
+     
+    },
+    {
+      "id": 9,
+      "name": "Sam",
+      "Task1": 40,
+      "Task2": 80,
+      "Task3": 80,
+      "Task4": 20,
+      "Appraisal1": 1,
+      "Appraisal2": 3,
+      "Total": 40000,
+      "gender" : "male",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyUO0lmYGGzGe9jOXgF8XzowltGRkjgNfjvA&usqp=CAU"
+     
+    },
+    {
+      "id": 10,
+      "name": "Ken",
+      "Task1": 100,
+      "Task2": 100,
+      "Task3": 100,
+      "Task4": 100,
+      "Appraisal1": 5,
+      "Appraisal2": 5,
+      "Total": 100000,
+      "gender" : "male",
+      "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+     
+    },
+    {
+      "id": 11,
+      "name": "Zam",
+      "Task1": 20,
+      "Task2": 90,
+      "Task3": 80,
+      "Task4": 90,
+      "Appraisal1": 4,
+      "Appraisal2": 3,
+      "Total": 50000,
+      "gender" : "female",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmFuZG9tJTIwcGVvcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+     
+    },
+    {
+      "id": 12,
+      "name": "Tim",
+      "Task1": 100,
+      "Task2": 40,
+      "Task3": 80,
+      "Task4": 100,
+      "Appraisal1": 4,
+      "Appraisal2": 3,
+      "Total": 80000,
+      "gender" : "male",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6i8DMEVGgOMroNG_ef48R1Y42JHvsu_GFUw&usqp=CAU"
+     
+    },
+    {
+      "id": 13,
+      "name": "Charles",
+      "Task1": 20,
+      "Task2": 40,
+      "Task3": 80,
+      "Task4": 100,
+      "Appraisal1": 5,
+      "Appraisal2": 3,
+      "Total": 60000,
+      "gender" : "male",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6i8DMEVGgOMroNG_ef48R1Y42JHvsu_GFUw&usqp=CAU"
+     
+    },
+    {
+        "id": 21,
+        "name": "Jemima",
+        "Task1": 20,
+        "Task2": 70,
+        "Task3": 50,
+        "Task4": 2,
+        "Appraisal1": 4,
+        "Appraisal2": 3,
+        "Total": 70000,
+        "gender" : "female",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKEteAJrjN9f2hN9iwxUB88GCT9WjUimEUxA&usqp=CAU"
+       
+      }
+]
+ 
+  
+ } 
+ 
+ 
